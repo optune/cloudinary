@@ -1,6 +1,6 @@
 {
   "author": "Cloudinary <info@cloudinary.com>",
-  "name": "@optune/cloudinary",
+  "name": "optune-cloudinary",
   "description": "Cloudinary NPM for node.js integration (otimised for OpTuNE)",
   "version": "1.0.0",
   "homepage": "http://cloudinary.com",
