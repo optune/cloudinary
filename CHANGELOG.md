@@ -1,3 +1,8 @@
+OpTuNE Version 1.0.5 / 2018-12-07
+=================================
+
+  * Always use es5 build (for IE Edge compatibility)
+
 OpTuNE Version 1.0.3 / 2018-12-06
 =================================
 
