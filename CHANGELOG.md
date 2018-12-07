@@ -1,3 +1,8 @@
+OpTuNE Version 1.0.3 / 2018-12-06
+=================================
+
+  * Fix Safari Error: Rename duplicate function/parameter exports
+
 OpTuNE Version 1.0.0 / 2018-12-03
 =================================
 
