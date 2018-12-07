@@ -2,7 +2,7 @@
   "author": "Cloudinary <info@cloudinary.com>",
   "name": "optune-cloudinary",
   "description": "Cloudinary NPM for node.js integration (otimised for OpTuNE)",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "http://cloudinary.com",
   "license": "MIT",
   "repository": {
